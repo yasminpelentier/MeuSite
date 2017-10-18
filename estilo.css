@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+} 
+img{
+    width: 50%;
+    height: 500px;
+}
+.vermelho{
+    color:#cc0033;
+}
+.centro{
+    text-align: center;
+}
+h1,h2{
+   font-family: 'PT Serif', serif;
+}
